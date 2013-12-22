@@ -1,0 +1,14 @@
+
+trello:
+
+	# your developer public api key
+	# Go to https://trello.com/1/appKey/generate
+  developer_public_key: 000EXAMPLE0000000EXAMPLE0000000
+  
+  # a predefined token
+  # Go to https://trello.com/1/authorize?key=YOUR_DEVELOPER_PUBLIC_KEY&name=ExportTasksToAsana&response_type=token
+  member_token: 000EXAMPLE000000EXAMPLE00000000EXAMPLE000385a38000EXAMPLE0000000
+
+asana:
+  # your Asana API Key - http://developer.asana.com/documentation/#api_keys
+  api_key: exAmpLE.ApiKEYEXtractedFROMAsana

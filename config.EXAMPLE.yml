@@ -10,5 +10,5 @@ trello:
   member_token: 000EXAMPLE000000EXAMPLE00000000EXAMPLE000385a38000EXAMPLE0000000
 
 asana:
-  # your Asana API Key - https://asana.com/developers/documentation/getting-started/auth#api-key
-  api_key: exAmpLE.ApiKEYEXtractedFROMAsana
+  # your Asana API Key - http://app.asana.com/-/account_api
+  personal_token: exAmpLE.pTokenEXtractedFROMAsana
